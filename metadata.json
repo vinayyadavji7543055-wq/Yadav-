@@ -1,0 +1,7 @@
+{
+  "name": "BetSphere - NextGen Sports Betting",
+  "description": "A high-performance sports betting platform featuring real-time match selection, AI-powered betting insights using Gemini, secure wallet simulation, and multi-language support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
